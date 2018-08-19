@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "ace-css": "^1.1.0",
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "hoek": "^5.0.4"
   },
   "devDependencies": {
     "css-loader": "^1.0.0",
